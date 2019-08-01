@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body {
+	background-image: url("C:\Users\hp\Downloads\Hd pc wallpapers");
+	background-color: Red;
+}
+#myhead1{
+	font-size: 70px;
+	color: #620000;
+	text-align: center;
+	text-shadow: 3px 3px 3px black;
+	background-color: #fee0e1;
+	border: 2px solid #6f0000;
+	border-radius: 20px;
+}
+
+#myhead3{
+	font-size: 25px;
+	
+	}
